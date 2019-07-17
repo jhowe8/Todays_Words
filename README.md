@@ -1,16 +1,5 @@
-# test_fb_db
+# Today's Words
 
-try to query firebase database
+An app that can save new Chinese words that you pick up throughout the day.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Users can create pages of vocabulary that they wish to learn. User enters vocabulary in Chinese, and it is then translated into English and the pinyin is also displayed. Pages are saved for limited time - seven days. Therefore, the user must memorize their new vocabulary before the time is up!
